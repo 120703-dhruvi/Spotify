@@ -1,0 +1,440 @@
+.container{
+    background:5px inset black ;
+    background-color: black;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 250px;
+    height: 100%;
+    border: 5px solid black;
+    color: white;
+    position: fixed;
+    
+   
+}
+.navInput{
+  top: 10px;
+justify-content: flex-start;
+  display: flex;
+ 
+  align-self: center;
+}
+.material-symbols-outlined{
+    align-self: center;
+    font-size: 30px;
+}
+h4{
+    font-size: 25px;
+}
+#top{
+    background-color: lightgray;
+    width: 100%;
+    height: 100px;
+   margin: 0;
+    display: flex;
+    
+}
+.top_content{
+    display: flex;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+   margin-top: 40px;
+   margin-left: 500px;
+}
+.userdetail{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    
+}
+.userdetail1{
+    display: flex;
+
+}
+.userdetail1:hover{
+    color: olive;
+  
+  
+   margin: 0;
+   border-radius: 10px;
+   cursor: pointer;
+}
+.bgdesign{
+    width: 100%;
+    
+    
+}
+    
+.bgpic{
+    margin-left: 250px;
+   position: relative;
+}
+.bgcontent{
+    color: white;
+   font-size: 40px;
+    margin-top: 10px;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    
+    
+
+}
+.navInput:hover{
+    color: purple;
+    cursor: pointer;
+}
+#content{
+    text-align: left;
+    margin-left: 500px;
+    margin-top: 10px;
+    color: rgb(43, 177, 16);
+}
+#content1{
+    margin-left: 200px;
+    text-align:left;
+    color: rgb(237, 243, 241);
+ 
+    
+}
+#content2{
+    color:olivedrab ;
+}
+#content3{
+    text-align:justify;
+    color: rgb(181, 181, 168);
+}
+
+#setup{
+  border: 5px solid olive;
+  width: 1880px;
+  height: 1500px;
+ 
+  
+}
+#bgcontent1{
+   position: absolute;
+   top: 1100px;
+   left: 500px;
+   color: purple;
+   font-size: 40px;
+   font-style: italic;
+   font-weight: bolder;
+   
+
+}
+#p{
+   position: absolute;
+   color: purple;
+   font-size: 50px;
+   font-style: italic;
+   left: 750px;
+   top: 1100px;
+}
+#imgg{
+    position: absolute;
+    left: 400px;
+    top: 1700px;
+    width: 1300px;
+    height: 700px;
+}
+.p2{
+    position: absolute;
+    color: olive;
+    left: 500px;
+    top: 1290px;
+    width: 1100px;
+    text-align: center;
+    font-size: 35px;
+
+}
+#btn{
+    border: 2px solid rgb(240, 240, 234);
+    color: rgb(0, 0, 0);
+    
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(157, 21, 21);
+    padding: 30px;
+    border-radius: 20px;
+    cursor:cell;
+    margin-top: 40px;
+}
+#btn:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+#imggg{
+    opacity: 0.8;
+    width: 100%;
+     margin-left: 250px;
+}
+.vid1{
+    position: absolute;
+    top: 2600px;
+    left: 300px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5000px;
+    cursor: pointer;
+}
+#shreya{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    left: 340px;
+    top: 2900px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+#vid2{
+    position: absolute;
+    left: 700px;
+    top: 2600px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5000px;
+    cursor: pointer;
+}
+#arijit{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    left: 750px;
+    top: 2900px;
+    font-size: 35px;
+    font-weight: bolder;
+
+}
+.vid3{
+
+    position: absolute;
+    left: 1100px;
+    top: 2600px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5000px;
+    cursor: pointer;
+}
+#neeti{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    left: 1160px;
+    top: 2900px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.vid4{
+    position: absolute;
+    left: 1500px;
+    top: 2600px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5000px;
+}
+#badshah{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    left: 1590px;
+    top: 2900px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+#third_content{
+    position: absolute;
+   
+    top: 3100px;
+    height: 300px;
+    width: 100%;
+    font-style: italic; 
+    font-size: 40px;
+}
+#vidc{
+    margin-left: 900px;
+    font-size: 80px;
+    color: rgb(4, 124, 74);
+}
+#c1{
+    margin-left: 600px;
+    font-size: 50px;
+}
+#c2{
+    margin-left: 850px;
+    color: rgb(151, 203, 40);
+}
+#fou{
+   left: 260px;
+   top: 3800px;
+    width: 1900px;
+    height: 1000px;
+    position: absolute;
+    opacity: 0.8;
+}
+.fou_content{
+    position: absolute;
+    color: white;
+   
+}
+.nav{
+   display: flex;
+    border-radius: 50px;
+    height:100px;
+    justify-content: flex-start;
+    background-color: gray;
+    width: 1000px;
+    margin-left: 500px;
+    font-size: 30px;
+    border: 5px solid black;
+}
+.material-symbols-outlined{
+    font-size: 50px;
+    height: 40px;
+    margin-left: 50px;
+  
+}
+.playlist{
+    font-size: 50px;
+    margin-top: 25px;
+    color: black;
+}
+#navimg{
+    border: 5px solid black;
+    border-radius: 200px;
+    width: 150px;
+    height: 150px;
+    margin-left: 1370px;
+    top: 0;
+  position: absolute;
+}
+#nav4{
+    background-color: black;
+    border-radius: 50px;
+    width: 1000px;
+    height: 500px;
+   margin-left:500px;
+}
+.Audio1{
+    position: absolute;
+    margin-left: 600px;
+  top: 110px;
+  font-size: 28px;
+}
+#audio1{
+    width: 400px;
+    border-radius: 100px;
+}
+#audio2{
+    width: 400px;
+}
+#fav{
+    position: absolute;
+    margin-left: 700px;
+    top: 20px;
+}
+#three1{
+    margin-left: 00px;
+}
+#fav1{
+    position: absolute;
+    margin-left: 700px;
+    top: 190px;
+    cursor: pointer;
+    
+}
+#fav1:hover{
+    color: red;
+}
+#three2{
+    margin-left: 5px;
+    cursor: pointer;
+}
+#audio3{
+    width: 400px;
+}
+#three1:hover{
+   color: purple;
+}
+#fav:hover{
+    color: red;
+    cursor: pointer;
+}
+#fav2{
+    position: absolute;
+    margin-left: 700px;
+    top: 350px;
+    cursor: pointer;
+}
+#fav2:hover{
+    color: red;
+}
+#three3{
+    margin-left: 10px;
+}
+#fifth
+{
+    height: 1000px;
+    position: absolute;
+    top: 4800px;
+    margin-left: 250px;
+    width: 100%;
+    opacity: 0.5;
+}
+#nav5{
+    position: absolute;
+    color: white;
+    opacity: 0.8;
+    background-color: black;
+    top: 5000px;
+    left: 500px;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    border: 5px inset white;
+    border-radius: 30px;
+    text-align: center;
+}
+#fifth_nav{
+    font-size: 60px;
+}
+#download{
+    font-size: 40px;
+}
+.fifthpara{
+    position: absolute;
+    top: 5150px;
+    left: 400px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.fifthpara1{
+    position: absolute;
+    top: 5300px;
+    font-size: 30px;
+    margin-left: 400px ;
+    color: black;
+}
+#hline{
+    position: absolute;
+    top: 5900px;
+    width: 100%;
+    font-size: 100px;
+     left: 260px;
+}
+#halfpage{
+    position: absolute;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(35, 32, 32);
+    top: 5500px;
+    left: 260px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    
+   
+  
+}
+.half1
+{
+    margin-left: 600px;
+    font-size: 25px;
+}
